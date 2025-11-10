@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🤖🔧 @josejacomeb 👨‍💻👋
 
-<!--
-**josejacomeb/josejacomeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- José Misael Jácome Barrionuevo 🇪🇨
+- ARS Traffic and Transportation Technologies 🇳🇱 (2025 - 2022)
+- Mechatronics Engineering M.Sc. - University of Debrecen 🇭🇺 (2021)
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mechatronics Design
+- Computer Vision Engineering
+- Python and C++ Programmer, Linux User
+
+👉 *Full Portafolio*: [GH Pages Link](https://josejacomeb.github.io/)
+
+## Currently Learning
+
+- Low level Embedded systems
+- AI applications
+- Control Systems
